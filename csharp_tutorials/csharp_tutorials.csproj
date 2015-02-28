@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>csharp_tutorials.src.introduction_to_data_types</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -42,7 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="src\the_first_program.cs" />
+    <Compile Include="src\03_introduction_to_data_types.cs" />
+    <Compile Include="src\02_introduction_to_variables.cs" />
+    <Compile Include="src\01_the_first_program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
