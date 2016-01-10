@@ -7,4 +7,4 @@ Repo containing sample programs demonstrating how to code in c# and make use of 
 4. [The 'if' statement](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/04_%20if_statement_demo.cs)
 5. [The 'for' loop](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/05_for_loop_demo.cs)
 6. File Handling
-    6.1 [The 'Path' Class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/01_PathClass.cs)
+  7. [The 'Path' Class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/01_PathClass.cs)
