@@ -48,6 +48,11 @@
     <Compile Include="src\03_introduction_to_data_types.cs" />
     <Compile Include="src\02_introduction_to_variables.cs" />
     <Compile Include="src\01_the_first_program.cs" />
+    <Compile Include="src\04_ if_statement_demo.cs" />
+    <Compile Include="src\05_for_loop_demo.cs" />
+    <Compile Include="src\File IO\01_PathClass.cs" />
+    <Compile Include="src\File IO\02_File_and_FileInfo.cs" />
+    <Compile Include="src\File IO\03_Directory_and_DirectoryInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
