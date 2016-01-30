@@ -1,5 +1,5 @@
 # C Sharp ( C# ) Tutorials
-#### Sample programs demonstrating how to code in the c# programming language.
+#### Code samples demonstrating how to code in the c# programming language.
 ---
 
 1. Introduction
