@@ -2,7 +2,6 @@
 #### Code samples demonstrating how to code in the c# programming language.
   * These code samples are only meant to be used as a reference and for practise while learning the language.
   * Please do not consider or treat them as a detailed programming guide.
-  * Please
 ---
 
 1. Introduction
