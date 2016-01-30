@@ -7,6 +7,8 @@ Repo containing sample programs demonstrating how to code in c# and make use of 
   1. [Introduction to Variables](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/02_Variables/introduction_to_variables.cs)
 3. Data Types
   1. [Introduction to Data Types](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/01_introduction_to_data_types.cs)
+  2. [The 'byte' data type](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/02_byte.cs)
+  3. [The 'sbyte' data type](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/03_signed_byte.cs)
 4. Loops
   1. [The 'for' loop](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/04_Loops/for_loop_demo.cs)
 5. Control Statements
