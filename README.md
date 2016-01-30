@@ -6,11 +6,11 @@ Repo containing sample programs demonstrating how to code in c# and make use of 
 2. Variables
   1. [Introduction to Variables](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/02_Variables/introduction_to_variables.cs)
 3. Data Types
-  1. [Introduction to Data Types](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_introduction_to_data_types.cs)
+  1. [Introduction to Data Types](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/01_introduction_to_data_types.cs)
 4. Loops
   1. [The 'for' loop](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/05_for_loop_demo.cs)
 5. Control Statements
-  1. 4. [The 'if' statement](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/04_%20if_statement_demo.cs)
+  1. [The 'if' statement](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/04_%20if_statement_demo.cs)
 6. File Handling
   1. [The 'Path' class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/01_PathClass.cs)
   2. [The 'FileInfo' class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/02_File_and_FileInfo.cs)
