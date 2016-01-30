@@ -1,5 +1,5 @@
 # C Sharp ( C# ) Tutorials
-### Repo containing sample programs demonstrating how to code in c# and make use of the languages features.
+#### Repo containing sample programs demonstrating how to code in c# and make use of the languages features.
 
 1. Introduction
   1. [A program that prints the immortal saying 'Hello World!'](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/01_Introduction/the_first_program.cs)
