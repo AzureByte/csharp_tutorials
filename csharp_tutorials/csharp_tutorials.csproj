@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>csharp_tutorials.src._03_Data_Types._03_signed_byte</StartupObject>
+    <StartupObject>
+    </StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,8 +51,12 @@
     <Compile Include="src\02_Variables\introduction_to_variables.cs" />
     <Compile Include="src\01_Introduction\the_first_program.cs" />
     <Compile Include="src\03_Data Types\03_signed_byte.cs" />
+    <Compile Include="src\03_Data Types\04_short.cs" />
+    <Compile Include="src\03_Data Types\05_UShort.cs" />
+    <Compile Include="src\03_Data Types\06_int.cs" />
     <Compile Include="src\05_Control Statements\if_statement_demo.cs" />
     <Compile Include="src\04_Loops\for_loop_demo.cs" />
+    <Compile Include="src\03_Data Types\07_UInt.cs" />
     <Compile Include="src\File IO\01_PathClass.cs" />
     <Compile Include="src\File IO\02_File_and_FileInfo.cs" />
     <Compile Include="src\File IO\03_Directory_and_DirectoryInfo.cs" />
