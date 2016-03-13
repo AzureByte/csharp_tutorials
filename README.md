@@ -28,7 +28,9 @@
   1. [The 'for' loop](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/04_Loops/for_loop_demo.cs)
 5. Control Statements
   1. [The 'if' statement](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/05_Control%20Statements/if_statement_demo.cs)
-6. File Handling
+6. Output Formatting
+  1. [Console output formatting options](https://github.com/neville-tech/csharp_tutorials/blob/master/csharp_tutorials/src/06_Output%20Formatting/01_output_formats.cs)
+7. File Handling
   1. [The 'Path' class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/01_PathClass.cs)
   2. [The 'FileInfo' class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/02_File_and_FileInfo.cs)
   3. [The 'DirectoryInfo' class](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/File%20IO/03_Directory_and_DirectoryInfo.cs)
