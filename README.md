@@ -18,6 +18,12 @@
   5. ['ushort' data type](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/05_UShort.cs)
   6. ['int' data type](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/06_int.cs)
   7. ['uint' data type](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/03_Data%20Types/07_UInt.cs)
+  8. ['long' data type]
+  9. ['ulong' data type]
+  10. ['float' data type]
+  11. ['decimal' data type]
+  12. ['char' data type]
+  13. ['bool' data type]
 4. Loops
   1. [The 'for' loop](https://github.com/nevtech/csharp_tutorials/blob/master/csharp_tutorials/src/04_Loops/for_loop_demo.cs)
 5. Control Statements
