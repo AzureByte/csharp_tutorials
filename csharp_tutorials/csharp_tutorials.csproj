@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>csharp_tutorials.src._03_Data_Types._09_ULong</StartupObject>
+    <StartupObject>csharp_tutorials.src._03_Data_Types._13_bool</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,10 @@
     <Compile Include="src\03_Data Types\06_int.cs" />
     <Compile Include="src\03_Data Types\08_long.cs" />
     <Compile Include="src\03_Data Types\09_ULong.cs" />
+    <Compile Include="src\03_Data Types\10_float.cs" />
+    <Compile Include="src\03_Data Types\11_decimal.cs" />
+    <Compile Include="src\03_Data Types\12_char.cs" />
+    <Compile Include="src\03_Data Types\13_bool.cs" />
     <Compile Include="src\05_Control Statements\if_statement_demo.cs" />
     <Compile Include="src\04_Loops\for_loop_demo.cs" />
     <Compile Include="src\03_Data Types\07_UInt.cs" />
