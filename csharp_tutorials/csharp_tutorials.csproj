@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>csharp_tutorials.src._06_Output_Formatting._01_output_formats</StartupObject>
+    <StartupObject>csharp_tutorials.src.the_first_program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
