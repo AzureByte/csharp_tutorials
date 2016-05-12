@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Note : This program will create a zero-byte file in "Temporary path" stated after the program is run.
+//       This file should not cause any harm but is in your temporary directory in case you want to delete it.
+
+using System;
 using System.IO;
 
 namespace csharp_tutorials.src.File_IO
