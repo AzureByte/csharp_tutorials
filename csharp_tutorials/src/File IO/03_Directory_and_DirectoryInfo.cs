@@ -8,10 +8,11 @@ namespace csharp_tutorials.src.File_IO
         public static void Main()
         {
             string directoryName = "testDirectory";
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
-            if (!Directory.Exists(@"c:\users\neville\desktop\" + directoryName))
+            if (!Directory.Exists(path + "\\" + directoryName)) //An alternative to @ is to escape the \
             {
-                DirectoryInfo dInfo = new DirectoryInfo(@"c:\users\neville\desktop\" + directoryName);
+                DirectoryInfo dInfo = new DirectoryInfo(path + "\\" + directoryName);
                 dInfo.Create();
             }
         }

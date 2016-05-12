@@ -8,10 +8,11 @@ namespace csharp_tutorials.src.File_IO
         public static void Main()
         {
             string fileName = "testFile.txt";
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop); //You can specify your own path as a string here!
 
-            if (!File.Exists(@"c:\users\neville\desktop\" + fileName))
+            if (!File.Exists(path + @"\" + fileName)) //The @ sign ensures you dont have to escape characters in a string.
             {
-                FileInfo fInfo = new FileInfo(@"c:\users\neville\desktop\" + fileName);
+                FileInfo fInfo = new FileInfo(path + fileName);
                 FileStream fStream = fInfo.Create();
                 fStream.Close();
             }
